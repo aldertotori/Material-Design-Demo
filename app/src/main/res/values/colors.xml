@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--默认导航栏颜色-->
+    <color name="colorPrimary">#607D8B</color>
+    <!--默认状态栏颜色-->
+    <color name="colorPrimaryDark">#455A64</color>
+    <!--默认高亮颜色-->
+    <color name="colorAccent">#795548</color>
+
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+</resources>
